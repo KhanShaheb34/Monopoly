@@ -13,7 +13,7 @@
       "utility"
     ]
   },
-  "board": [
+  "spaces": [
     {
       "name": "Go",
       "type": "go",
