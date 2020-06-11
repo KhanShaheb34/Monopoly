@@ -1,0 +1,31 @@
+{
+  "name": "monopoly",
+  "version": "1.0.0",
+  "description": "A board game",
+  "main": "src/game.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node src/game.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KhanShaheb34/Monopoly.git"
+  },
+  "keywords": [
+    "Monopoly",
+    "Board",
+    "Game"
+  ],
+  "author": "KhanShaheb34",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KhanShaheb34/Monopoly/issues"
+  },
+  "homepage": "https://github.com/KhanShaheb34/Monopoly#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
