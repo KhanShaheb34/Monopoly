@@ -10,6 +10,7 @@ class Space {
     if (props.group) this.group = props.group;
     if (props.house) this.housePrice = props.house;
     if (props.corner) this.corner = true;
+    this.owner = null;
   }
 }
 

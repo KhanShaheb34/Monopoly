@@ -5,6 +5,7 @@ class Board {
   constructor(type = "us") {
     this.type = type;
     this.board = us_board;
+    this.size = this.board.spaces.length;
     this.spaces = [];
     this.generateBoard();
   }
