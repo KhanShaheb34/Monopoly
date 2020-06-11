@@ -84,12 +84,12 @@
       "house": 50
     },
     {
-      "name": "জেইল",
+      "name": "জেলখানা",
       "type": "jail",
       "corner": true
     },
     {
-      "name": "St. Charles Place",
+      "name": "আকুয়া",
       "type": "property",
       "cost": 140,
       "color": "#d93a96",
@@ -98,13 +98,13 @@
       "house": 100
     },
     {
-      "name": "Electric Company",
+      "name": "বিদ্যুৎ সুবিধা",
       "type": "utility",
       "cost": 150,
       "group": [10, 1, 2]
     },
     {
-      "name": "States Avenue",
+      "name": "নন্দিবাড়ি",
       "type": "property",
       "cost": 140,
       "color": "#d93a96",
@@ -113,7 +113,7 @@
       "house": 100
     },
     {
-      "name": "Virginia Avenue",
+      "name": "কলেজ রোড",
       "type": "property",
       "cost": 160,
       "color": "#d93a96",
@@ -122,13 +122,13 @@
       "house": 100
     },
     {
-      "name": "Pennsylvania Railroad",
+      "name": "ময়মনসিংহ স্টেশন",
       "type": "railroad",
       "cost": 200,
       "group": [9, 2, 4]
     },
     {
-      "name": "St. James Place",
+      "name": "পণ্ডিত পাড়া",
       "type": "property",
       "cost": 180,
       "color": "#f7941d",
@@ -137,11 +137,11 @@
       "house": 100
     },
     {
-      "name": "Community Chest",
+      "name": "ভাগ্য পরীক্ষা",
       "type": "community-chest"
     },
     {
-      "name": "Tennessee Avenue",
+      "name": "কেওয়াটখালী",
       "type": "property",
       "cost": 180,
       "color": "#f7941d",
@@ -150,7 +150,7 @@
       "house": 100
     },
     {
-      "name": "New York Avenue",
+      "name": "বড় বাজার",
       "type": "property",
       "cost": 200,
       "color": "#f7941d",
@@ -159,12 +159,12 @@
       "house": 100
     },
     {
-      "name": "Free Parking",
+      "name": "বিশ্রামাগার",
       "type": "free-parking",
       "corner": true
     },
     {
-      "name": "Kentucky Avenue",
+      "name": "বাটালী হিল",
       "type": "property",
       "cost": 220,
       "color": "#ed1b24",
@@ -173,11 +173,11 @@
       "house": 150
     },
     {
-      "name": "Chance",
+      "name": "সুযোগ গ্রহণ",
       "type": "chance"
     },
     {
-      "name": "Indiana Avenue",
+      "name": "পাথর ঘাটা",
       "type": "property",
       "cost": 220,
       "color": "#ed1b24",
@@ -186,7 +186,7 @@
       "house": 150
     },
     {
-      "name": "Illnois Avenue",
+      "name": "মেহেদী বাগ",
       "type": "property",
       "cost": 240,
       "color": "#ed1b24",
@@ -195,13 +195,13 @@
       "house": 150
     },
     {
-      "name": "B. & O. Railroad",
+      "name": "চট্টগ্রাম স্টেশন",
       "type": "railroad",
       "cost": 200,
       "group": [9, 3, 4]
     },
     {
-      "name": "Atlatic Avenue",
+      "name": "লালদিঘীর ময়দান",
       "type": "property",
       "cost": 260,
       "color": "#fef200",
@@ -210,7 +210,7 @@
       "house": 150
     },
     {
-      "name": "Ventura Avenue",
+      "name": "আগ্রাবাদ",
       "type": "property",
       "cost": 260,
       "color": "#fef200",
@@ -219,13 +219,13 @@
       "house": 150
     },
     {
-      "name": "Water Works",
+      "name": "পানি সুবিধা",
       "type": "utility",
       "cost": 150,
       "group": [10, 2, 2]
     },
     {
-      "name": "Marvin Gardens",
+      "name": "কুলশি",
       "type": "property",
       "cost": 280,
       "color": "#fef200",
@@ -234,12 +234,12 @@
       "house": 150
     },
     {
-      "name": "Go To Jail",
+      "name": "জেলখানায় যাও",
       "type": "go-to-jail",
       "corner": true
     },
     {
-      "name": "Pacific Avenue",
+      "name": "ওয়ারী",
       "type": "property",
       "cost": 300,
       "color": "#1fb25a",
@@ -248,7 +248,7 @@
       "house": 200
     },
     {
-      "name": "North Carolina Avenue",
+      "name": "মতিঝিল",
       "type": "property",
       "cost": 300,
       "color": "#1fb25a",
@@ -257,11 +257,11 @@
       "house": 200
     },
     {
-      "name": "Community Chest",
+      "name": "ভাগ্য পরীক্ষা",
       "type": "community-chest"
     },
     {
-      "name": "Pennsylvania Avenue",
+      "name": "ধানমন্ডি",
       "type": "property",
       "cost": 320,
       "color": "#1fb25a",
@@ -270,17 +270,17 @@
       "house": 200
     },
     {
-      "name": "Shortline",
+      "name": "ঢাকা স্টেশন",
       "type": "railroad",
       "cost": 200,
       "group": [9, 4, 4]
     },
     {
-      "name": "Chance",
+      "name": "সুযোগ গ্রহণ",
       "type": "chance"
     },
     {
-      "name": "Park Place",
+      "name": "বনানী",
       "type": "property",
       "cost": 350,
       "color": "#0072bb",
@@ -289,12 +289,12 @@
       "house": 200
     },
     {
-      "name": "Luxury Tax",
+      "name": "কর পরিশোধ",
       "type": "tax",
       "cost": 100
     },
     {
-      "name": "Boardwalk",
+      "name": "গুলশান",
       "type": "property",
       "cost": 400,
       "color": "#0072bb",
