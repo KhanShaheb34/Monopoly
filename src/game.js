@@ -4,7 +4,7 @@ const Dice = require("./dice");
 
 class Game {
   constructor(playerCount, ...names) {
-    this.board = new Board("bn");
+    this.board = new Board("us");
     this.playerCount = playerCount;
     this.names = names;
     this.players = [];
@@ -15,7 +15,7 @@ class Game {
 
   generatePlayers() {
     this.names.map((name, id) => {
-      this.players.push(new Player(id, name));
+      this.players.push(new Player(id, name, 1500));
     });
   }
 
@@ -33,11 +33,7 @@ class Game {
   }
 
   takeAction() {
-    console.log(
-      `${this.activePlayer.name} will take action on ${
-        this.board.spaces[this.activePlayer.position].name
-      }`
-    );
+    this.board.action(this.activePlayer);
   }
 
   diceHandover() {
